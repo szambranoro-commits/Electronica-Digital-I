@@ -2,20 +2,20 @@
 
 Este repositorio contiene la documentación visual y el diseño del flujo de trabajo de mi proyecto, estructurado para facilitar su visualización y futura edición.
 
-## 📂 Contenido del Repositorio
+##  Contenido del Repositorio
 
 *   **`index.html`**: Página web interactiva creada para visualizar el diagrama de flujo de forma directa en el navegador.
 *   **Archivo `.drawio`**: Archivo fuente editable que contiene el diseño original del diagrama para realizar modificaciones.
 
 ---
 
-## 🚀 Cómo Visualizar el Proyecto
+##  Cómo Visualizar el Proyecto
 
 Tienes dos formas principales de ver el diagrama:
 
 1. **Versión Web (`index.html`)**:
    * Puedes abrir el archivo `index.html` directamente en cualquier navegador web moderno.
-   *Este enlace te enviara a la pagina web, donde podras ver el diagrama de flujo:
+   *Este enlace te enviara a la pagina web, donde podras ver el diagrama de flujo:https://szambranoro-commits.github.io/Electronica-Digital-I/
 
 2. **Edición del Diagrama (`.drawio`)**:
    * Si necesitas modificar el flujo, puedes descargar o abrir el archivo `.drawio` utilizando la plataforma gratuita [draw.io (diagrams.net)](https://app.diagrams.net/) o mediante su extensión para editores de código como VS Code.
