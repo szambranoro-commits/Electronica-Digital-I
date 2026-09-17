@@ -22,7 +22,4 @@ Tienes dos formas principales de ver el diagrama:
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
 
-*   **HTML5 / CSS3** para la estructura y presentación de la página web.
-*   **Draw.io** para el diseño y esquematización del diagrama de flujo.
